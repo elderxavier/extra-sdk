@@ -1,0 +1,80 @@
+{
+  "orderId": "string",
+  "orderMasterId": "string",
+  "totalAmount": "double",
+  "purchaseDate": "Date",
+  "approvedDate": "date",
+  "freightChargedAmount": "double",
+  "freightActualAmount": "double",
+  "freightAdditionalInfo": "String",
+  "paymentTpId": "int",
+  "inscricaoEstadual": "string",
+  "customerName": "string",
+  "customerGender": "string",
+  "documentNr": "string",
+  "customerPhoneNumber": "string",
+  "customerEmail": "string",
+  "orderItems": [
+    {
+      "orderItemId": "string",
+      "skuId": "string",
+      "salePrice": "double",
+      "deliveryDate": "date",
+      "freightTime": "int",
+      "leadTime": "int"
+    }
+  ],
+  "billingInformations": [
+    {
+      "address": "string",
+      "addressNr": "string",
+      "additionalInfo": "string",
+      "quarter": "string",
+      "city": "string",
+      "state": "string",
+      "countryId": "string",
+      "postalCd": "CEP",
+      "reference": "string",
+      "addressExtraField1": "string",
+      "addressExtraField2": "string",
+      "buildingNm": "string"
+    }
+  ],
+  "shippingInformationsList": [
+    {
+      "deliveryType": "string",
+      "scheduledDate": "Date",
+      "scheduledPeriod": "string",
+      "recipientName": "string",
+      "address": "string",
+      "addressNr": "string",
+      "additionalInfo": "string",
+      "quarter": "string",
+      "City": "string",
+      "State": "string",
+      "countryId": "string",
+      "postalCd": "string",
+      "reference": "string",
+      "addressExtraField1": "string",
+      "addressExtraField2": "string",
+      "buildingNm": "string"
+    }
+  ],
+  "trackingList": [
+    {
+      "orderId": "string",
+      "orderItems": "array[string]",
+      "controlPoint": "string",
+      "extraDescription": "string",
+      "occurenceDt": "Date",
+      "carrierName": "string",
+      "url": "string",
+      "objectId": "string",
+      "originDeliveryId": "string",
+      "accessKeyNfe": "string",
+      "linkNfe": "string",
+      "nfe": "String",
+      "serieNfe": "string"
+    }
+  ]
+}

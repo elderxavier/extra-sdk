@@ -1,0 +1,29 @@
+[
+  [
+    "skuIdOrigin"=> "string",
+    "skuId"=> "string",
+    "productIdOrigin"=> "string",
+    "sellingTitle"=> "string",
+    "description"=> "string",
+    "brand"=> "string",
+    "EAN"=> "string",
+    "defaultPrice"=> "double",
+    "salePrice"=> "double",
+    "categoryList"=> ["Teste>API"],
+    "productUdaLists"=> [
+      [
+        "udaNamed"=> "string",
+        "udaValue"=> "string"
+      ]
+    ],
+    "Weight"=> "double",
+    "Length"=> "double",
+    "Width"=> "double",
+    "Height"=> "double",
+    "availableQuantity"=> "int",
+    "handlingTime"=> "int",
+    "installmentId"=> "int",
+    "videos"=> "Array[string]",
+    "images"=> "Array[string]"
+  ]
+]

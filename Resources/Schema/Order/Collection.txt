@@ -1,0 +1,45 @@
+[
+  {
+    "orderId": "string",
+    "orderMasterId": "string",
+    "totalAmount": "double",
+    "purchaseDate": "Date",
+    "freightChargedAmount": "double",
+    "freightActualAmount": "double",
+    "orderItems": [
+      {
+        "orderItemId": "string",
+        "skuId": "string",
+        "salePrice": "double",
+        "deliveryDate": "date",
+        "freightTime": "int",
+        "leadTime": "int"
+      }
+    ],
+    "billingInformations": [
+      {
+        "address": "string",
+        "addressNr": "string",
+        "additionalInfo": "string",
+        "quarter": "string",
+        "city": "string",
+        "state": "string",
+        "countryId": "string",
+        "postalCd": "CEP",
+        "reference": "string",
+        "addressExtraField1": "string",
+        "addressExtraField2": "string",
+        "buildingNm": "string"
+      }
+    ],
+    "documentNr": "string",
+    "inscricaoEstadual": "string",
+    "customerEmail": "string",
+    "customerName": "string",
+    "customerGender": "string",
+    "paymentTpId": "int",
+    "freightAdditionalInfo": "String",
+    "approvedDate": "date",
+    "customerPhoneNumber": "string"
+  }
+]

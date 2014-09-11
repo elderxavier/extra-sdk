@@ -1,0 +1,44 @@
+[
+  {
+    "skuIdOrigin": "CH-iPhone",
+    "sellingTitle": "Carregador de Parede Genérico Apple Iphone 4S",
+    "description": "Carregador de Parede Genérico Apple Iphone 4S.",
+    "brand": "Generico",
+    "EAN": "12345678",
+    "defaultPrice": 29.90,
+    "salePrice": 23.90,
+    "categoryList": ["Teste>API"],
+    "productUdaLists": [
+      {"udaNamed": "voltagem", "udaValue": "bivolt"}
+    ],
+    "Weight": 1.0,
+    "Length": 1.0,
+    "Width": 21.0,
+    "Height": 14.0,
+    "availableQuantity": 0,
+    "handlingTime": 0,
+    "videos": [],
+    "images": ["http://imagemqualquer.com.br/imag.jpg"]
+  },
+  {
+    "skuIdOrigin": "CH-Generico",
+    "sellingTitle": "Carregador de Parede Genérico para Celular",
+    "description": "Carregador de Parede Genérico para Celular",
+    "brand": "Generico",
+    "EAN": "12345670",
+    "defaultPrice": 59.90,
+    "salePrice": 53.90,
+    "categoryList": ["Teste>API"],
+    "productUdaLists": [
+      {"udaNamed": "voltagem", "udaValue": "bivolt"}
+    ],
+    "Weight": 1.0,
+    "Length": 1.0,
+    "Width": 21.0,
+    "Height": 14.0,
+    "availableQuantity": 0,
+    "handlingTime": 0,
+    "videos": [],
+    "images": ["http://imagemqualquer.com.br/imag.jpg"]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "skuIdOrigin": "8641",
+    "sellingTitle": "Perfume Fantasy EDP Feminino 100ml Britney Spears",
+    "description": "Fantasy EDP é uma poção mágica do amor, uma doce tentação que deixa um rastro de sensualidade envolvente.",
+    "brand": "Britney Spears",
+    "EAN": "0719346065405",
+    "defaultPrice": 241.00,
+    "salePrice": 209.00,
+    "categoryList": ["Teste>API"],
+    "productUdaLists": [],
+    "Weight": 1.0,
+    "Length": 1.0,
+    "Width": 21.0,
+    "Height": 14.0,
+    "availableQuantity": 1,
+    "handlingTime": 0,
+    "videos": [],
+    "images": ["http://s3b.sepha.com.br/prd/8600/8638/8638_3_desc_30.jpg"]
+  }
+]
